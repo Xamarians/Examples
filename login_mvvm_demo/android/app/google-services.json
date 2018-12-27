@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1001395720520",
+    "firebase_url": "https://fluuter-demo-project.firebaseio.com",
+    "project_id": "fluuter-demo-project",
+    "storage_bucket": "fluuter-demo-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001395720520:android:28ecb041fee9a7c0",
+        "android_client_info": {
+          "package_name": "com.example.demoproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001395720520-fpb6u68aep6pp866tt49frg2g1uu60kb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzs2k0R-nYcRyf1lFiAitEI9a2U_dBVIc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

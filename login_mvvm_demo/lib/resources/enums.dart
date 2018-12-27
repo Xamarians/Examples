@@ -1,0 +1,1 @@
+enum UserType { EMAIL, FACEBOOK, GOOGLE, TWITTER, OTHER }
